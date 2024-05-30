@@ -1,0 +1,4 @@
+train: C:\Users\Ρξτόÿ\geopractice\valid\img
+val: C:\Users\Ρξτόÿ\geopractice\valid\img
+nc: 1
+names: [0]

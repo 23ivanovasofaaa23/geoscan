@@ -1,0 +1,12 @@
+
+    train: train/img
+    val: valid/img
+    
+    # Путь к аннотациям
+    nc: 1  # количество классов
+    names: ['powerline']  # имена классов
+
+    # Определение путей к аннотациям для тренировочных и валидационных данных
+    train_labels: train/Annotations/Yolo/Train
+    val_labels: valid/Annotations/Yolo/Valid
+    
